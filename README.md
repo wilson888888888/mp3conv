@@ -1,5 +1,5 @@
 # mp3conv
-Small script to convert many flacs to mp3 using ffmpeg
+Small script to convert a directory of flacs to mp3 using ffmpeg
 
 Supports variable and constant bitrate.
 ### Running:
