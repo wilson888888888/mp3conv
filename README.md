@@ -4,6 +4,8 @@ Small script to convert a directory of flacs or mp3s to mp3 using ffmpeg
 Supports variable and constant bitrate.
 
 Creates directory with mp3s in parent directory of working.
+
+Note: Apparently converting from lossy to lossy is a pretty bad thing. So try not to do that.
 ### Running:
 Run script inside directory with flacs.
 
