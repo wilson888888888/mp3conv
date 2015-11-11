@@ -2,6 +2,8 @@
 Small script to convert a directory of flacs to mp3 using ffmpeg
 
 Supports variable and constant bitrate.
+
+Creates directory with mp3s in parent directory of working.
 ### Running:
 Run script inside directory with flacs.
 
